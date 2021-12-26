@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Kindly Install below modules to run this Project
+
+npm install jquery --save
+npm install popper.js@1 --save
+npm install bootstrap@4 --save
+
+Note: This project have not include with database, you can choose json-server with:
+npm install json-server -g
+and create a data file name 'react-db.json' in other folder
+json-server react-db-json --watch --port=5000
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,4 +79,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # react-ecommerce
