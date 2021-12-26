@@ -4,13 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Kindly Install below modules to run this Project
 
-npm install jquery --save /n
-npm install popper.js@1 --save /n
+npm install jquery --save <br>
+npm install popper.js@1 --save <br>
 npm install bootstrap@4 --save
 
-Note: This project have not include with database, you can choose json-server with:
-npm install json-server -g
-and create a data file name 'react-db.json' in other folder
+Note: This project have not include with database, you can choose json-server with:<br>
+npm install json-server -g<br>
+and create a data file name 'react-db.json' in other folder<br>
 json-server react-db-json --watch --port=5000
 
 ## Available Scripts
